@@ -9,7 +9,11 @@ public class GitTest {
 		int c = a+b;
 		System.out.println(s);
 		System.out.println("has been changed companies is " + c);
+		
+		
 
 	}
-
+public void mul() {
+System.out.println("Multiplication");
+}
 }
